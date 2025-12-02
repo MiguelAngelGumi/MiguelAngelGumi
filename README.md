@@ -60,9 +60,9 @@ Incluye prototipos web, APIs, dashboards e integración con sensores AirGradient
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
 </div>
 
 ---
@@ -79,8 +79,9 @@ Incluye prototipos web, APIs, dashboards e integración con sensores AirGradient
 ### 🗄️ Bases de Datos
 <div style="display: flex; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="40"/>
 </div>
 
 ---
@@ -88,7 +89,7 @@ Incluye prototipos web, APIs, dashboards e integración con sensores AirGradient
 ### ☁️ DevOps / Cloud
 <div style="display: flex; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40"/>
 </div>
 
 ---
@@ -102,13 +103,36 @@ Incluye prototipos web, APIs, dashboards e integración con sensores AirGradient
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
 </div>
 
-
-
 ---
 
 ## 📊 Estadísticas
+## 📊 Estadísticas de GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAngelGumi&layout=compact)
+<div align="center">
+
+### ⭐ Actividad general
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=MiguelAngelGumi&show_icons=true&theme=tokyonight&hide_border=true" 
+  width="500"
+/>
+
+---
+
+### 📚 Lenguajes más usados
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAngelGumi&layout=compact&theme=tokyonight&hide_border=true" 
+  width="500"
+/>
+
+---
+
+### 🔥 Racha de actividad
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelAngelGumi&theme=tokyonight&hide_border=true" 
+  width="500"
+/>
+
+</div>
 
 ---
 
